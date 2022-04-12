@@ -30,5 +30,5 @@ function draw() {
 }
 
 function take_snapshot(){
-    save("frame.png");
+    save("tejas.png");
 }
